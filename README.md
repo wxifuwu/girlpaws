@@ -1,16 +1,22 @@
-## Hi there 👋
+```zsh
+> neofetch
+```
 
-<!--
-**girlpaws/girlpaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://git.liveemily.xyz/emily">
+   <img align="left" src="https://github.com/girlpaws.png" alt="pfp" width="260" height="260" id="pfp">
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```zig
+Freya @ GitHub
+-------------------------
+OS: NixOS unstable
+Shell: nu 0.101.0
+Terminal: ghostty
+WM: Hyprland
+Pronouns: she/her they/them
+Location: Germany
+Languages: German (native), English (professional)
+Programming: Rust, Go, TypeScript
+Learning: Zig
+Discord: frey.moe
+```
