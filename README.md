@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<a href="http://git.liveemily.xyz/emily">
+<a href="https://git.sr.ht/~freya">
    <img align="left" src="https://github.com/girlpaws.png" alt="pfp" width="260" height="260" id="pfp">
 </a>
 
