@@ -10,13 +10,13 @@
 Freya @ GitHub
 -------------------------
 OS: NixOS unstable
-Shell: nu 0.101.0
+Shell: fish, version 3.7.1
 Terminal: ghostty
-WM: Hyprland
+WM: SwayFX
 Pronouns: she/her they/them
 Location: Germany
 Languages: German (native), English (professional)
 Programming: Rust, Go, TypeScript
-Learning: Zig
-Discord: frey.moe
+Placeholder: Check
+Discord: ryxre
 ```
